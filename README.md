@@ -1,2 +1,2 @@
 # Snake1.0.1
-Update from last version, more comefortable
+上传最新的源码，该版本玩起来更舒服
